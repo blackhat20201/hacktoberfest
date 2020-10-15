@@ -3,7 +3,6 @@
 
   
 public: 
-    // Classes object of string 
     char s1[25], s2[25]; 
   
     // Parametrized Constructor 
