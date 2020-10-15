@@ -10,7 +10,7 @@ Complex(int r = 0, int i =0)
 real = r;
 imag = i;
 }
-Complex operator + (Complex const &obj)
+Complex operator + (Complex const &o)
 {
 Complex c;
 c.real = real + obj.real;
