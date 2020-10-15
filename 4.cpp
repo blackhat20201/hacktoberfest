@@ -1,11 +1,6 @@
 #include <iostream> 
 #include <string.h> 
-  
-using namespace std; 
-  
-// Class to implement operator overloading 
-// function for concatenating the strings 
-class AddString { 
+
   
 public: 
     // Classes object of string 
